@@ -1,0 +1,60 @@
+
+body{
+    background-color: rgb(212, 187, 123);
+}
+h1:hover{
+    color: red;
+}
+h1{
+    text-align: center;
+    color: blue;
+
+}
+h2:hover{
+    color: red;
+
+}
+h2{
+    text-align: center;
+    color: rgb(128, 128, 209);
+}
+
+
+.img:hover{
+    transform: scale(1.5);
+
+}
+p:hover{
+    color: brown;
+}
+p{
+    text-align: center;
+    color: rgb(128, 128, 209);
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  footer ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  footer li {
+    display: inline-block;
+    margin-right: 20px;
+  }
+  
+  footer a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  footer a:hover {
+    color: #ccc;
+  }
